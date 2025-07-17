@@ -34,7 +34,7 @@
 🖥️ Đảm bảo bạn đã có:
 
 - ☕ **Java 17+** _(nếu chạy `.jar`)_
-- 🪟 **Windows 10 trở lên** _(nếu dùng `.exe`)_
+- ⚙️ **Windows 10 trở lên** _(nếu dùng `.exe`)_
 - ❌ **Tắt phần mềm diệt virus** chặn `.pak` hoặc `.enc` _(nếu có)_
 
 ---
