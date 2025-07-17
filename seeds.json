@@ -1,0 +1,32 @@
+{
+  "seeds": [
+    { "id": 0, "name": "cà chua", "minutesToMature": 240, "xu": 10, "luong": 0, "level": 1, "yield": 75 },
+    { "id": 1, "name": "cà rốt", "minutesToMature": 360, "xu": 10, "luong": 0, "level": 1, "yield": 108 },
+    { "id": 2, "name": "khóm", "minutesToMature": 600, "xu": 10, "luong": 0, "level": 1, "yield": 165 },
+    { "id": 3, "name": "dưa hấu", "minutesToMature": 480, "xu": 10, "luong": 0, "level": 1, "yield": 138 },
+    { "id": 4, "name": "nho", "minutesToMature": 960, "xu": 10, "luong": 0, "level": 1, "yield": 240 },
+    { "id": 5, "name": "hoa hồng", "minutesToMature": 120, "xu": 10, "luong": 0, "level": 1, "yield": 45 },
+    { "id": 6, "name": "lúa", "minutesToMature": 2880, "xu": 10, "luong": 0, "level": 1, "yield": 720 },
+    { "id": 7, "name": "xoài", "minutesToMature": 1440, "xu": 10, "luong": 0, "level": 1, "yield": 360 },
+    { "id": 8, "name": "thanh long", "minutesToMature": 720, "xu": 10, "luong": 0, "level": 1, "yield": 189 },
+    { "id": 9, "name": "hoa hướng dương", "minutesToMature": 720, "xu": 10, "luong": 0, "level": 1, "yield": 189 },
+    { "id": 10, "name": "hoa tulip", "minutesToMature": 360, "xu": 10, "luong": 0, "level": 1, "yield": 108 },
+    { "id": 30, "name": "bắp", "minutesToMature": 1440, "xu": 10, "luong": 0, "level": 1, "yield": 360 },
+    { "id": 31, "name": "nha đam", "minutesToMature": 120, "xu": 0, "luong": 1, "level": 2, "yield": 1345 },
+    { "id": 32, "name": "dưa leo", "minutesToMature": 2880, "xu": 10, "luong": 0, "level": 1, "yield": 720 },
+    { "id": 33, "name": "cà tím", "minutesToMature": 480, "xu": 10, "luong": 0, "level": 1, "yield": 138 },
+    { "id": 34, "name": "tỏi", "minutesToMature": 240, "xu": 10, "luong": 0, "level": 1, "yield": 75 },
+    { "id": 35, "name": "dâu tây", "minutesToMature": 300, "xu": 10, "luong": 0, "level": 1, "yield": 97 },
+    { "id": 36, "name": "chuối", "minutesToMature": 660, "xu": 10, "luong": 0, "level": 1, "yield": 180 },
+    { "id": 37, "name": "đào", "minutesToMature": 2880, "xu": 10, "luong": 0, "level": 2, "yield": 1000 },
+    { "id": 38, "name": "vải", "minutesToMature": 4320, "xu": 10, "luong": 0, "level": 2, "yield": 1500 },
+    { "id": 39, "name": "cúc chuồn chuồn", "minutesToMature": 180, "xu": 10, "luong": 0, "level": 1, "yield": 62 },
+    { "id": 40, "name": "sen", "minutesToMature": 480, "xu": 10, "luong": 0, "level": 1, "yield": 140 },
+    { "id": 41, "name": "bí ngô", "minutesToMature": 120, "xu": 10, "luong": 0, "level": 1, "yield": 80 },
+    { "id": 42, "name": "khoai tây", "minutesToMature": 360, "xu": 10, "luong": 0, "level": 2, "yield": 120 },
+    { "id": 43, "name": "cây ớt", "minutesToMature": 60, "xu": 10, "luong": 0, "level": 1, "yield": 45 },
+    { "id": 44, "name": "cải thảo", "minutesToMature": 240, "xu": 10, "luong": 0, "level": 1, "yield": 80 },
+    { "id": 46, "name": "nhân sâm", "minutesToMature": 240, "xu": 0, "luong": 2, "level": 1, "yield": 1200 },
+    { "id": 47, "name": "hoa tam giác mạch", "minutesToMature": 180, "xu": 10, "luong": 0, "level": 1, "yield": 62 }
+  ]
+}

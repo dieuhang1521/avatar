@@ -1,0 +1,9 @@
+{
+  "debug": true,
+  "logLevel": "INFO",
+  "autoReconnect": true,
+  "maxRetry": 5,
+  "sleepAfterAccountMs": 5000,
+  "sleepAfterErrorMs": 3000,
+  "farmTimeoutMs": 1800000
+}

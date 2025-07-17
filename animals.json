@@ -1,0 +1,146 @@
+{
+  "animals": [
+    {
+      "id": 50,
+      "name": "gà",
+      "timeToRaise": 1440,
+      "buyPriceXu": 500,
+      "buyPriceAmount": -1,
+      "growthTime": 1440,
+      "sellPrice": 950,
+      "farmUnit": 1,
+      "product": {
+        "amount": 20,
+        "interval": 360
+      },
+      "productSellPrice": 10,
+      "lifespan": 10080,
+      "isWater": false,
+      "isHarvest": true
+    },
+    {
+      "id": 51,
+      "name": "bò",
+      "timeToRaise": 4320,
+      "buyPriceXu": 0,
+      "buyPriceAmount": 5,
+      "growthTime": 4320,
+      "sellPrice": 2000,
+      "farmUnit": 3,
+      "product": {
+        "amount": 30,
+        "interval": 360
+      },
+      "productSellPrice": 20,
+      "lifespan": 43200,
+      "isWater": false,
+      "isHarvest": true
+    },
+    {
+      "id": 52,
+      "name": "heo",
+      "timeToRaise": 2880,
+      "buyPriceXu": 1000,
+      "buyPriceAmount": -1,
+      "growthTime": 2880,
+      "sellPrice": 2000,
+      "farmUnit": 2,
+      "productSellPrice": -1,
+      "lifespan": 28800,
+      "isWater": false,
+      "isHarvest": false
+    },
+    {
+      "id": 53,
+      "name": "chó",
+      "timeToRaise": 60,
+      "buyPriceXu": 0,
+      "buyPriceAmount": 1,
+      "growthTime": -1,
+      "sellPrice": -1,
+      "farmUnit": 1,
+      "productSellPrice": -1,
+      "lifespan": 21600,
+      "isWater": false,
+      "isHarvest": false
+    },
+    {
+      "id": 54,
+      "name": "cá chép",
+      "timeToRaise": 4320,
+      "buyPriceXu": 5000,
+      "buyPriceAmount": -1,
+      "growthTime": 4320,
+      "sellPrice": 10000,
+      "fishTankUnit": 1,
+      "productSellPrice": -1,
+      "lifespan": 43200,
+      "isWater": true,
+      "isHarvest": false
+    },
+    {
+      "id": 55,
+      "name": "cừu",
+      "timeToRaise": 2880,
+      "buyPriceXu": 0,
+      "buyPriceAmount": 2,
+      "growthTime": 2880,
+      "sellPrice": 1500,
+      "farmUnit": 3,
+      "product": {
+        "amount": 20,
+        "interval": 720
+      },
+      "productSellPrice": 30,
+      "lifespan": 14400,
+      "isWater": false,
+      "isHarvest": true
+    },
+    {
+      "id": 56,
+      "name": "vịt",
+      "timeToRaise": 2880,
+      "buyPriceXu": 600,
+      "buyPriceAmount": -1,
+      "growthTime": 2880,
+      "sellPrice": 1200,
+      "farmUnit": 1,
+      "product": {
+        "amount": 20,
+        "interval": 360
+      },
+      "productSellPrice": 10,
+      "lifespan": 10080,
+      "isWater": false,
+      "isHarvest": true
+    },
+    {
+      "id": 58,
+      "name": "trâu",
+      "timeToRaise": 4320,
+      "buyPriceXu": 1000,
+      "buyPriceAmount": -1,
+      "growthTime": 4320,
+      "sellPrice": 3000,
+      "farmUnit": 2,
+      "productSellPrice": -1,
+      "lifespan": 43200,
+      "isWater": false,
+      "isHarvest": false
+    },
+    {
+      "id": 59,
+      "name": "rùa",
+      "timeToRaise": 1440,
+      "buyPriceXu": 2000,
+      "buyPriceAmount": -1,
+      "growthTime": 1440,
+      "sellPrice": 5000,
+      "fishTankUnit": 1,
+      "productSellPrice": -1,
+      "lifespan": 21600,
+      "isWater": true,
+      "isHarvest": false
+    }
+  ]
+}
